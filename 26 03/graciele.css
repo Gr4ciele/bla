@@ -1,0 +1,20 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+header{
+    background-color: #A69B8C;
+    display: flex;
+    justify-content:space-around;
+    padding: 24px 0;
+}
+
+.cabecalhoitem{
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
